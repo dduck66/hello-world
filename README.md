@@ -5,3 +5,5 @@ It is fun.
 
 Now I add some text in Visual Studio 2019 Preview.
 
+Added text in branch in GitHub
+
