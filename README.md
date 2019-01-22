@@ -1,3 +1,4 @@
 # hello-world
 
-My name is Hans. I'm learning to use GitHub:)
+My name is Hans-Åke. I'm learning GitHub:)
+It is fun.
