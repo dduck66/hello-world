@@ -13,5 +13,11 @@ Added text in branch in GitHub
 4. text added in GitHub in master
 5. text added in VS in master
 6. text added in GitHub in master
+7. text added in VS in branch "newfeature"
+8. text added in VS in branch "newfeature"
+9. text added in Github in branch "newfeature"
+10. text added in Github in branch "newfeature"
+11. text added in GitHub in branch "newfeature"
+12. text added in VS in branch "newfeature"
 
 Denna ändring gjordes i branch "master"
