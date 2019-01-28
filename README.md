@@ -19,5 +19,6 @@ Added text in branch in GitHub
 10. text added in Github in branch "newfeature"
 11. text added in GitHub in branch "newfeature"
 12. text added in VS in branch "newfeature"
+13. text added in VS in branch "newfeature2"
 
 Denna ändring gjordes i branch "master"
