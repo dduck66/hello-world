@@ -15,3 +15,4 @@ Added text in branch in GitHub
 6. text added in GitHub in master
 7. text added in VS in branch "newfeature"
 8. text added in VS in branch "newfeature"
+9. text added in Github in branch "newfeature"
